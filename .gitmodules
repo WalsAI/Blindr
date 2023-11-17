@@ -1,0 +1,6 @@
+[submodule "MonoDepth-PyTorch"]
+	path = MonoDepth-PyTorch
+	url = /Users/valentinserban/Blindr/MonoDepth-PyTorch
+[submodule "Mask2Former"]
+	path = Mask2Former
+	url = /Users/valentinserban/Blindr/Mask2Former
