@@ -1,0 +1,6 @@
+[submodule "Mask2Former"]
+	path = Mask2Former
+	url = https://github.com/walentines/Mask2Former.git
+[submodule "MonoDepth-PyTorch"]
+	path = MonoDepth-PyTorch
+	url = https://github.com/walentines/MonoDepth-PyTorch.git
